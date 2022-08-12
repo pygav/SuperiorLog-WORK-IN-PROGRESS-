@@ -1,0 +1,17 @@
+Part number:
+745-22
+Cycle time (in sec):
+97
+Setup time(in minutes):
+100
+Key Dim. 1:
+3.375 +/-.005
+Key Dim. 2:
+2.275 +/-.005
+Key Dim. 3:
+.790 +/-.002
+Key Dim. 4:
+none
+Key Dim. 5:
+none
+-------------------------

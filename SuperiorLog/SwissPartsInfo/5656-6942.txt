@@ -1,0 +1,17 @@
+Part number:
+5656-6942
+Cycle time (in sec):
+89
+Setup time (in minutes):
+22
+Key Dim. 1:
+.749 +/-.020
+Key Dim. 2:
+.570 +/-.01
+Key Dim. 3:
+.360 +/-.01
+Key Dim. 4:
+none
+Key Dim. 5:
+none
+-------------------------

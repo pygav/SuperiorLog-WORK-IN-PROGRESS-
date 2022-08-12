@@ -1,0 +1,17 @@
+Part number:
+40-555
+Cycle time (in sec):
+200
+Setup time(in minutes):
+76
+Key Dim. 1:
+5.350 +/- .100
+Key Dim. 2:
+none
+Key Dim. 3:
+none
+Key Dim. 4:
+none
+Key Dim. 5:
+none
+-------------------------

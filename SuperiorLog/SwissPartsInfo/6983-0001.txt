@@ -1,0 +1,17 @@
+Part number:
+6983-0001
+Cycle time (in sec):
+125
+Setup Time (in minutes):
+37
+Key Dim. 1:
+1.015 +.003
+Key Dim. 2:
+.458 +.003/-.0005
+Key Dim. 3:
+none
+Key Dim. 4:
+none
+Key Dim. 5:
+none
+-------------------------

@@ -1,0 +1,17 @@
+Part number:
+30-741
+Cycle time (in sec):
+54
+Setup time(in minutes):
+45
+Key Dim. 1:
+.235 +/- .020
+Key Dim. 2:
+GO/NOGO 1/8 TAP 0/1
+Key Dim. 3:
+2.125 +/- .005
+Key Dim. 4:
+none
+Key Dim. 5:
+none
+-------------------------

@@ -1,0 +1,17 @@
+Part number:
+50-505
+Cycle time (in sec):
+246
+Setup time(in minutes):
+110
+Key Dim. 1:
+Gage pins .096 hole 0/1
+Key Dim. 2:
+.425 +/- .0003
+Key Dim. 3:
+.549 -.0006
+Key Dim. 4:
+Make sure chamfer is on bottom 0/1
+Key Dim. 5:
+none
+-------------------------

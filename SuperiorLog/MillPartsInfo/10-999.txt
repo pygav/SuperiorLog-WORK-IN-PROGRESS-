@@ -1,0 +1,17 @@
+Part number:
+10-999
+Cycle time (in sec):
+115
+Setup time(in minutes):
+60
+Key Dim. 1:
+1.025 +/- .010
+Key Dim. 2:
+.550 +/- .004
+Key Dim. 3:
+2.150 + .002
+Key Dim. 4:
+Thread gages 0/1
+Key Dim. 5:
+Gage pins .180 hole 0/1
+-------------------------

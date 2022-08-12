@@ -1,0 +1,17 @@
+Part number:
+999-99
+Cycle time (in sec):
+87
+Setup time(in minutes):
+98
+Key Dim. 1:
+2.362 +/-.001
+Key Dim. 2:
+6.025 +/-.005
+Key Dim. 3:
+none
+Key Dim. 4:
+none
+Key Dim. 5:
+none
+-------------------------

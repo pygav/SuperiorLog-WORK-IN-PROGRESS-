@@ -1,0 +1,17 @@
+Part number:
+1001-968
+Cycle time (in sec):
+73
+Setup time(in minutes):
+76
+Key Dim. 1:
+.336 +/-.01
+Key Dim. 2:
+GO/NOGO 1/8 TAP 0/1
+Key Dim. 3:
+.549 -.0006
+Key Dim. 4:
+none
+Key Dim. 5:
+none
+-------------------------

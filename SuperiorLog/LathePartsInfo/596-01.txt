@@ -1,0 +1,17 @@
+Part number:
+596-01
+Cycle time (in sec):
+65
+Setup time(in minutes):
+58
+Key Dim. 1:
+.950 +/-.002
+Key Dim. 2:
+1.097 +/-.01
+Key Dim. 3:
+.880 -.0004
+Key Dim. 4:
+GO/NOGO .185 BORE 0/1
+Key Dim. 5:
+none
+-------------------------

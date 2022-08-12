@@ -1,0 +1,17 @@
+Part number:
+20-856
+Cycle time (in sec):
+90
+Setup time(in minutes):
+120
+Key Dim. 1:
+.622 +/- .0006
+Key Dim. 2:
+Gage pins .204 hole 0/1
+Key Dim. 3:
+.775 +/- .005
+Key Dim. 4:
+none
+Key Dim. 5:
+none
+-------------------------

@@ -1,0 +1,9 @@
+Setup window:
+
+Save data and exit
+
+Log program changes, changes in tooling
+
+add to scrap count
+
+Log machine issues, maitenance
